@@ -2,7 +2,7 @@
 
 BackEnd-Tattoo é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
 
-Foi estruturado nas ferramentas Meaven e SpringBoot para a construção e execução do BackEnd-Tattoo
+BackEnd estruturado nas ferramentas Meaven e SpringBoot para a construção e execução do BackEnd-Tattoo
 
 # Abaixo segue a apresentação do site e suas funcionalidades.
 ![1](https://github.com/user-attachments/assets/671a2b36-5f13-4b76-a50f-b352d107dcb9)
