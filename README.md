@@ -26,7 +26,7 @@ API RESTful para comunicação com o front-end (Frontend-Tattoo).
 
 Configuração de banco de dados via Spring Data JPA.
 
-Validação básica de dados e tratamento de exceções.
+Validação de dados e tratamento de exceções.
 
 📁 Estrutura do Projeto
 ```
