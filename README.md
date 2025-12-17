@@ -1,7 +1,7 @@
 # BackEnd-Tattoo with Java + Spring Framework
 
-  BackEnd-Tattoo é o back-end de um sistema web para exibição e venda de tatuagens, com funcionalidades CRUD (Create, Read, Update, Delete) para gerenciar tatuagens. O projeto foi desenvolvido com Java + Spring Boot, utilizando Maven como gerenciador de dependências, garantindo organização e padronização do código.
-
+  BackEnd-Tattoo é um sistema web para exibição e venda de tatuagens, com funcionalidades CRUD (Create, Read, Update, Delete) para gerenciar tatuagens. 
+  
 - Stack Tecnológica
 
 Java 17+
