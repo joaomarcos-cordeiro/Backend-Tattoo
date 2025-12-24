@@ -18,15 +18,15 @@
 
 ```Funcionalidades Desenvolvidas ```
 
-Criação, leitura, atualização e exclusão de tatuagens (CRUD).
+- Criação, leitura, atualização e exclusão de tatuagens (CRUD).
 
-Estrutura modular organizada em pacotes: controller, service, repository e model.
+- Estrutura modular organizada em pacotes: controller, service, repository e model.
 
-API RESTful para comunicação com o front-end (Frontend-Tattoo).
+- API RESTful para comunicação com o front-end (Frontend-Tattoo).
 
-Configuração de banco de dados via Spring Data JPA.
+- Configuração de banco de dados via Spring Data JPA.
 
-Validação de dados e tratamento de exceções.
+- Validação de dados e tratamento de exceções.
 
 📁 Estrutura do Projeto
 ```
