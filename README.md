@@ -4,19 +4,19 @@
   
 - Stack Tecnológica
 
-Java 17+
+◦ Java 17+
 
-Spring Boot 
+◦ Spring Boot 
 
-Spring Data JPA 
+◦ Spring Data JPA 
 
-Maven 
+◦ Maven 
 
-H2 / MySQL 
+◦ H2 / MySQL 
 
-Lombok 
+◦ Lombok 
 
-- Funcionalidades Desenvolvidas
+```Funcionalidades Desenvolvidas ```
 
 Criação, leitura, atualização e exclusão de tatuagens (CRUD).
 
