@@ -58,7 +58,7 @@ Technology Stack
 
 ◦ Lombok
 
-Developed Features
+``` Developed Features ```
 
 Creation, reading, updating, and deletion of tattoos (CRUD).
 
