@@ -41,7 +41,50 @@ src/
  │   └── resources/
  │       └── application.properties  # Configurações do Spring Boot
 ```
+## ~~~English ->
+BackEnd-Tattoo is a web system for displaying and selling tattoos, with CRUD functionalities (Create, Read, Update, Delete) to manage tattoos.
 
+Technology Stack
+
+◦ Java 17+
+
+◦ Spring Boot
+
+◦ Spring Data JPA
+
+◦ Maven
+
+◦ H2 / MySQL
+
+◦ Lombok
+
+Developed Features
+
+Creation, reading, updating, and deletion of tattoos (CRUD).
+
+Modular structure organized into packages: controller, service, repository, and model.
+
+RESTful API for communication with the front-end (Frontend-Tattoo).
+
+Database configuration via Spring Data JPA.
+
+Data validation and exception handling.
+
+📁 Project Structure
+```
+
+src/
+ ├── main/
+ │   ├── java/
+ │   │   └── com/backendtattoo/
+ │   │       ├── controller/    # Handles HTTP requests
+ │   │       ├── service/       # Business rules
+ │   │       ├── repository/    # Database interface
+ │   │       └── model/         # Database entities
+ │   └── resources/
+ │       └── application.properties  # Spring Boot configurations
+```
+# Below is the presentation of the website and its functionalities.
 # Abaixo segue a apresentação do site e suas funcionalidades.
 ![1](https://github.com/user-attachments/assets/671a2b36-5f13-4b76-a50f-b352d107dcb9)
 ![2](https://github.com/user-attachments/assets/a39b94b5-5b44-430f-9c42-4007b4ae4317)
